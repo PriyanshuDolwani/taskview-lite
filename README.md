@@ -14,4 +14,4 @@ A simple React application to view tasks using API integration and routing.
 ---
 
 ## Deployment URL
-https://your-app.vercel.app
+https://taskview-lite-tawny.vercel.app/
